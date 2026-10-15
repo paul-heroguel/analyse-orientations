@@ -1,0 +1,10 @@
+source;destination;nb_patients
+M00;M01;32
+M00;M02;15
+M00;M03;12
+M01;M04;18
+M01;M03;10
+M02;M04;8
+M03;M01;6
+M03;M04;14
+M04;M01;5

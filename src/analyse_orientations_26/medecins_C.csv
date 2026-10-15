@@ -1,0 +1,21 @@
+identifiant;nom;specialite;age
+M00;Dr Condotta;Generaliste;45
+M01;Dr Sahli;Cardiologue;52
+M02;Dr Nouari;Dermatologue;41
+M03;Dr Martin;Pneumologue;58
+M04;Dr Dupont;Radiologue;37
+M05;Dr Bernard;Neurologue;49
+M06;Dr Petit;Ophtalmologue;34
+M07;Dr Robert;Rhumatologue;56
+M08;Dr Richard;Endocrinologue;43
+M09;Dr Durand;Gastroenterologue;39
+M10;Dr Moreau;ORL;51
+M11;Dr Simon;Urologue;46
+M12;Dr Laurent;Oncologue;55
+M13;Dr Michel;Nephrologue;42
+M14;Dr Leroy;Psychiatre;38
+M15;Dr Garcia;Allergologue;44
+M16;Dr Roux;Gynecologue;53
+M17;Dr Vincent;Pediatre;36
+M18;Dr Fournier;Hematologue;50
+M19;Dr Lambert;Chirurgien;47
