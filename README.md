@@ -45,7 +45,7 @@ Un menu en console permet ensuite d'explorer le réseau.
 **En ligne de commande** (Java 21) :
 
 ```bash
-git clone https://github.com/heroguelp-collab/analyse-orientations.git
+git clone https://github.com/paul-heroguel/analyse-orientations.git
 cd analyse-orientations
 javac -d bin src/analyse_orientations_26/*.java
 cp src/analyse_orientations_26/*.csv bin/analyse_orientations_26/
